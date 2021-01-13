@@ -8,7 +8,7 @@ I'm trying to just name _one per domain_ - this isn't an exhaustive list of all 
 - **Text documents**: [Pandoc](https://pandoc.org/)
 - **Images**: [GraphicksMagic `convert`](http://www.graphicsmagick.org/convert.html)
 - **Audio**: [XLD](https://tmkk.undo.jp/xld/index_e.html) for lossless audio
-- **Video**: [[ffmpeg](https://ffmpeg.org/)
+- **Video**: [ffmpeg](https://ffmpeg.org/)
 
 ### Are there universal converters for these?
 
